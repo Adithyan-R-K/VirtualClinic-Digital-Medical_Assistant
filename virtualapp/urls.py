@@ -20,7 +20,6 @@ urlpatterns = [
     path('searchid', views.searchid, name='search'),
     path('showdoc', views.showdoc, name='search'),
     path('addappointment', views.addappointment, name='appoinments'),
-    ####rk
     path('delA', views.delA, name='delete'),
     path('homep', views.homep, name='patient'),
     path('payp', views.payp, name='patient'),
@@ -81,7 +80,6 @@ urlpatterns = [
     path('addreport', views.addreport, name='addlab'),
     path('uploadtest', views.uploadtest, name='addlab'),
     path('patient_loginhome', views.patient_login, name='addlab'),
-#manasm is the king
     path('labreport', views.labreport, name="homepage"),
     path('addreport', views.addreport, name="homepage"),
     path('addreports', views.addreports, name="homepage"),
