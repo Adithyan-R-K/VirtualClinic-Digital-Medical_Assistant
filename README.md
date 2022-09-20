@@ -30,4 +30,4 @@ python manage.py  runserver
 
 
 ### MIT
-### Author : Adithyan R K
+### Author :[Adithyan R K](https://github.com/Adithyan-R-K)
