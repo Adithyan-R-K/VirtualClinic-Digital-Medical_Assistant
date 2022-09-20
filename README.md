@@ -21,6 +21,10 @@ python manage.py migrate
 ```bash
 python manage.py  runserver
 ```
+## ScreenShots
+![](https://github.com/Adithyan-R-K/VirtualClinic-Digital-Medical_Assistant/blob/main/images/1.png)
+![](https://github.com/Adithyan-R-K/VirtualClinic-Digital-Medical_Assistant/blob/main/images/adminhome.png)
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
